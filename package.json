@@ -1,0 +1,24 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new:a": "npx zenn new:article"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UNILORN/zenn.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UNILORN/zenn.dev/issues"
+  },
+  "homepage": "https://github.com/UNILORN/zenn.dev#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.110"
+  }
+}
