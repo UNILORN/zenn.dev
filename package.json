@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "new:a": "npx zenn new:article"
+    "new:a": "npx zenn new:article",
+    "pre": "npx zenn preview"
   },
   "repository": {
     "type": "git",
