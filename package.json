@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/UNILORN/zenn.dev#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.1.162"
   }
 }
